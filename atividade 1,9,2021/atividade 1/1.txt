@@ -1,0 +1,68 @@
+1     Faça uma função que recebe por três números em parâmetro e retorna a soma deles.
+
+function soma (a,b,c) {
+  return a+b+c; 
+}
+
+
+2  Faça uma função que retorna a mensagem abaixo:
+
+function marioquitana (){
+  return "Por que prender a vida em conceitos e normas? O Belo e o Feio… O Bom e o Mau… Dor e Prazer… Tudo, afinal, são formas E não degraus do Ser!"
+}
+
+3   Faça uma função que recebe dois parâmetros e retorna o resto da divisão deles.
+
+function  divi(a ,b){
+  return a/b
+}
+   4 Faça uma função que recebe a idade de uma pessoa em anos como parâmetros de entrada e retorna essa idade em dias.
+
+	function  idade(a){
+  return a*365
+}
+
+5 Faça uma função que retorna uma pergunta ao usuário sobre seu nome.
+
+	function  nome(){
+  return  "Qual seu nome?"
+}
+  6 Faça uma função que retorna o ano em que estamos.
+
+
+	function  ano(){
+  return  "2021"
+}
+  
+	7   Faça uma função que receba um número positivo como parâmetros de entrada, some mais 1 e retorne o resultado para o usuário.
+
+		function  soma1(a){
+  return  a+1
+}
+  
+
+	8    Faça uma função que receba um número positivo como parâmetros de entrada, subtraia menos 1 e retorne o resultado para o usuário
+	
+		function  menos(b){
+  return  b-5
+}
+   9    Faça uma função que receba dois números positivos como parâmetros de entrada, multiplique um pelo outro e retorne o resultado para o usuário.
+
+	function  mult(a,b){
+  return  a*b
+}
+  
+
+	10     Faça uma função que receba dois números positivos como parâmetros de entrada, base e potência, retorne o resultado da exponenciação para o usuário.
+
+	function  pote(a,b){
+  return  a**b
+}
+  
+	11     Faça uma função que qual a sua música preferida  e quem a canta.
+
+	function  musica(){
+  return  "Tribo da Periferia - Imprevisível"
+}
+  	
+	12  Faça uma função que recebe o parâmetro raio, e retorne o resultado do cálculo da fórmula:   PI = raio2
